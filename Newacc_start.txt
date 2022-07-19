@@ -1,2 +1,3 @@
 7/16 New github account
 7/16 Repo pushed to github
+7/19 DQ pandas practice
