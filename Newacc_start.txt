@@ -4,4 +4,4 @@
 7/18 pynb commit
 7/19 DQ pandas practice
 7/20 Read Article. Hackerrank problem
-7/22 Data Cleaning section started. test.new edit.Continue
+7/22 Data Cleaning section started. test.2
