@@ -5,3 +5,4 @@
 7/19 DQ pandas practice
 7/20 Read Article. Hackerrank problem
 7/22 Data Cleaning section started. test.2
+7/24 Data cleaning continued
