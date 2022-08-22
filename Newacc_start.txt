@@ -7,3 +7,4 @@
 7/22 Data Cleaning section started. test.2
 7/24 Data cleaning continued
 8/17 Car project
+8/22 Car project EDA continued
