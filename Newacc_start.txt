@@ -9,3 +9,4 @@
 8/17 Car project
 8/22 Car project EDA continued
 9/4  DQ tutorial
+9/7  DQ tutorial
