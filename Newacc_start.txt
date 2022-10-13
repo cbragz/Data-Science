@@ -12,3 +12,4 @@
 9/7  DQ tutorial
 9/12 DQ Work
 9/18 DQ
+10/12 OOP started
