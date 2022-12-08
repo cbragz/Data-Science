@@ -1,3 +1,4 @@
+Year 2022
 7/16 New github account
 7/16 Repo pushed to github
 7/17 pynb commit
@@ -17,3 +18,4 @@
 11/13 Vids
 11/18 Functions and DQ
 11/19 Knn Continued
+12/7 DQ Continued
