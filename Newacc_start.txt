@@ -19,4 +19,5 @@ Year 2022
 11/18 Functions and DQ
 11/19 Knn Continued
 12/7 DQ Continued
-12/8 DQ Knn 
+12/8 DQ Knn
+1/18 DQ API work 
